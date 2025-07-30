@@ -4,7 +4,7 @@
 **License**: GNU General Public License v3.0 (GPL-3.0)
 **Compatible with**: Linux Mint (Cinnamon), GTK desktops
 **Author**: DrMcC0y
-**Version**: 1.0.1
+**Version**: 1.0.5
 **Status**: Actively maintained
 **Based on**: Breeze, Numix-Circle, Papirus, Hicolor (GPL-compatible)
 
@@ -24,7 +24,7 @@ It is partially based on open source icon themes licensed under the GPL, such as
 * **Papirus** – used in very small parts (e.g., one or two icons)
 * **Hicolor** – one or two icons included from this fallback theme
 
-I also drew inspiration from a Breeze-based icon theme called **Relax-Dark**, created by an author named **l4k1**, who made a beautiful folder design to Breeze theme. Unfortunately, that theme was missing many icons for Cinnamon and GNOME-based desktops. Therefore, I:
+I also drew inspiration from a Breeze-based icon theme called Relax, which has a beautiful folder design. Unfortunately, that theme was missing many icons for Cinnamon and GNOME-based desktops. Therefore, I:
 
 * Redesigned many outdated icons to match the modern aesthetic
 * Created many icons from scratch

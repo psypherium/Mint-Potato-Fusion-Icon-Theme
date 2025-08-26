@@ -1,3 +1,9 @@
+this will be a fork of the "mint-relaxed" icon theme.
+
+the only change that I have planned so far is to change the window controls from triangle-triangle-cross to centeredline-box-cross.
+
+original readme below
+
 ### 📄 `README.md` – *Mint-Relaxed-Icons*
 
 **Name**: Mint-Relaxed-Icons

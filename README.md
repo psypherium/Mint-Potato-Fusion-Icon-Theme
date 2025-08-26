@@ -4,6 +4,8 @@ the only change that I have planned so far is to change the window controls from
 
 If I am successful with the above, I might do some other stuff.
 
+i might also refork this into a "dont theme our apps" version, which only changes the folder icon and leaves everything else unaltered/gnome-stock.
+
 original readme below
 
 ### 📄 `README.md` – *Mint-Relaxed-Icons*
